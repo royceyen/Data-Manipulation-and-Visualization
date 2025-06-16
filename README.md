@@ -31,6 +31,12 @@ Each row represents a unique Kickstarter campaign, including metadata such as pr
 - Boxplots and scatter plots for financial insights (goal vs. pledged)
 - Interactive dashboards using Holoviews and Panel for dynamic exploration
 
+## 📈 Key Insights
+
+- Kickstarter project launches peaked in 2015, followed by a downward trend in subsequent years.
+- The category **Apps** had the lowest success rate (~6%) among all categories, and a significant increase in Apps projects in 2014–2015 likely contributed to the overall drop in success rate during those years.
+- Campaigns launched with **lower goal amounts** generally had higher chances of success.
+
 ## 🛠️ Tools & Technologies
 
 - Python 3.x
