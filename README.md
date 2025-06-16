@@ -31,28 +31,12 @@ Each row represents a unique Kickstarter campaign, including metadata such as pr
 - Boxplots and scatter plots for financial insights (goal vs. pledged)
 - Interactive dashboards using Holoviews and Panel for dynamic exploration
 
-
-## 📈 Key Insights
-
-- The number of Kickstarter projects peaked in 2015 and declined afterward.
-- The **U.S.** had the highest number of launched campaigns among all countries.
-- **Film & Video** and **Music** were among the most frequently launched main categories.
-- Most campaigns in **Austria**, **Belgium**, and **Germany** had high failure rates.
-- Projects with a **lower goal amount** had a visibly higher success rate.
-
 ## 🛠️ Tools & Technologies
 
 - Python 3.x
 - Pandas for data manipulation
 - Matplotlib and Seaborn for static plots
 - Holoviews & Panel for interactive dashboards
-- Regex and datetime processing for date engineering
-
-## 🚀 Future Improvements
-
-- Build a predictive model to estimate the probability of campaign success
-- Add NLP analysis on project descriptions or titles
-- Incorporate external data (e.g., economic indicators or social media buzz)
 
 ## 👤 Author
 
